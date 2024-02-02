@@ -2,6 +2,6 @@
 # Menu-De-Restaurant
 <p>A very basic java console program made for a university subject call 
 introduction to programming with java</p>
-![images](https://github.com/pabloescm/Menu-De-Restaurant/assets/80562153/1d2850a6-7c20-439c-8b7f-d97d7e93f058)
+
 
 
